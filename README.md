@@ -1,4 +1,4 @@
-# -AI-Based-Application-for-Auto-Measurement-of-Land-Area
+# AI-Based-Application-for-Auto-Measurement-of-Land-Area
 
 🌍 Cloud Removal & Land Segmentation using CycleGAN & UNET Land Segmentation**  
 🚀 A deep learning-based application for *cloud removal* from satellite images and *land segmentation* using COCO segmentation.  
