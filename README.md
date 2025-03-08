@@ -96,5 +96,8 @@ npm start
 ---
 
 ## 🙌 *Contributors*  
-👤 *Kabilesh Kumar* - Developer  
+👤 *Kabilesh Kumar* - Developer
+👤 *Lingeswaran A* - Developer
+👤 *Manish Dutt S* - Developer
+👤 *Melvin Fredrick JS* - Developer  
 🔗 *GitHub*: [KABILESH77](-AI-Based-Application-for-Auto-Measurement-of-Land-Area)
